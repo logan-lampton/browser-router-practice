@@ -13,6 +13,7 @@ const Navbar = () => {
       </NavLink>
       <NavLink to='/about'>About</NavLink>
       <NavLink to='/products'>Products</NavLink>
+      <NavLink to='/login'>Login</NavLink>
     </nav>
   );
 };
